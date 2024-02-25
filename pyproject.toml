@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "quize-app"
+name = "quiz-app"
 version = "0.1.0"
 description = ""
 authors = ["Koosha Sangari <ko.sangari@gmail.com>"]
